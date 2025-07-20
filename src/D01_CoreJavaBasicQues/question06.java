@@ -22,6 +22,5 @@ public class question06 {
         System.out.println("Simple Interest is " +interest);
         sc.close();
 
-
     }
 }
